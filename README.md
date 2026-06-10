@@ -9,6 +9,7 @@ I build software at the intersection of **capital markets** and **engineering**:
 | Project | What it is | Stack |
 |---|---|---|
 | [Tokenized Bond Settlement Lab](https://github.com/NoamSam/Crypto) | Backend simulating tokenized bond settlement with ISO 20022-style (camt.054) reporting, Swagger docs, CI, full test coverage of the workflow | Python, Django, DRF, OpenAPI, Ruff, GitHub Actions |
+| [Wave Portal](https://github.com/NoamSam/wave-portal) | Full-cycle Ethereum dApp: smart contract with events and cooldown logic, wallet connection, on-chain message feed | Solidity, Hardhat, React, ethers v6 |
 | [Deep Finance Project](https://github.com/NoamSam/deep-finance-project) | Multi-asset prediction with model training and an interactive dashboard, backtesting engine included | Python, TensorFlow, Streamlit, yfinance |
 
 ## 🛠 Stack
