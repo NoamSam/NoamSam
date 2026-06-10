@@ -1,10 +1,10 @@
-# Hi, I'm Noam 👋
+# Hi, I'm Noam 
 
 Final-year engineering student, currently a **fullstack software engineer at Société Générale CIB** working on an exotic equity derivatives platform.
 
 I build software at the intersection of **capital markets** and **engineering**: pricing/risk concepts on one side, clean production-grade backends on the other. Currently exploring **tokenized assets and digital securities**.
 
-## 🔭 Featured projects
+## Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -12,7 +12,7 @@ I build software at the intersection of **capital markets** and **engineering**:
 | [Wave Portal](https://github.com/NoamSam/wave-portal) | Full-cycle Ethereum dApp: smart contract with events and cooldown logic, wallet connection, on-chain message feed | Solidity, Hardhat, React, ethers v6 |
 | [Deep Finance Project](https://github.com/NoamSam/deep-finance-project) | Multi-asset prediction with model training and an interactive dashboard, backtesting engine included | Python, TensorFlow, Streamlit, yfinance |
 
-## 🛠 Stack
+## Stack
 
 `Python` `Django` `FastAPI` `ReactJS` `TypeScript` `PostgreSQL` `Docker` `Kubernetes` `Jenkins` `GitLab CI/CD` `GitHub Actions` `SonarQube` `Polars` `Power BI`
 
