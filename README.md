@@ -20,3 +20,7 @@ I build software at the intersection of **capital markets** and **engineering**:
 ## 📈 Finance side
 
 Derivatives (Greeks, vol surface), market risk (VaR, Expected Shortfall), post-trade & settlement workflows, tokenization / digital assets.
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/noam-samama)
